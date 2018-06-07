@@ -8,3 +8,8 @@ We can easily render animations without the need of writing lines and lines of c
  Need BodyMovie or Adobe after effects transit json file that consist mapping of animation
  
  Open source json file taken from : https://www.lottiefiles.com/
+ 
+ 
+ ![lottiedemo](https://user-images.githubusercontent.com/15888722/41080423-11448ea6-6a44-11e8-9548-b1d762cca82a.gif)
+
+
